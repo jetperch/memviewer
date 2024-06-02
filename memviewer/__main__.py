@@ -65,10 +65,8 @@ def run():
         return 1
 
     if args.filter is not None:
-        print(args.filter)
         for field, operator, value in args.filter:
             symbols = [v for v in symbols if operator(v[field], value)]
-    print(symbols)
 
     if args.address_prefix:
         symbols = [v for v in symbols if v['addr'].startswith(args.address_prefix)]

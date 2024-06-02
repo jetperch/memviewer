@@ -54,7 +54,6 @@ def _colors(length, palette=None):
 def _treemap(df, x, y, dx, dy):
     normed = squarify.normalize_sizes(df['size'], dx, dy)
     blocks = squarify.squarify(normed, x, y, dx, dy)
-    print(blocks)
     blocks_df = pd.DataFrame(blocks).set_index(df.index)
     return df.join(blocks_df, how='left').reset_index()
 
