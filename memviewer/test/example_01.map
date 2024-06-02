@@ -1,0 +1,1834 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-memset.o)
+                              src/CMakeFiles/playground_boot.elf.dir/main2.c.obj (memset)
+C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-init.o)
+                              src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj (__libc_init_array)
+
+Discarded input sections
+
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .text          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .text          0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .text          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000      0x13c src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0xb02 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x2e src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x42 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x34e src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0xfb src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000     0x1313 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x11f src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000    0x2145c src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x6d src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x1a1 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000     0x346a src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x75 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x29 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x94 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x190 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x57 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x370 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x16 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x4a src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x1de src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x19b src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x64 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0xab5 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000     0x1f68 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x93a src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x170 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x1ba src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x2e8 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x590 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x52e src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0xba src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x27c src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x2c0 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x433 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0xb0 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x11c src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x210 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x2a0 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x693 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000       0xa6 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x00000000      0x587 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_MPU_EnableRegion
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_MPU_DisableRegion
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .text.HAL_CORTEX_ClearEvent
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0xb02 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x1a1 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x2e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x42 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x34e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0xfb src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000     0x1313 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x11f src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000    0x2145c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x6d src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000     0x346a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x75 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x29 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x94 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x190 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x57 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x370 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x16 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x4a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x1de src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x19b src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x64 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0xab5 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000     0x1f68 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x93a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x170 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x1ba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x2e8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x590 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x52e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0xba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x27c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x2c0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x433 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0xb0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x11c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x210 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x2a0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x693 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000       0xa6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x00000000      0x587 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.RCC_GetCLKPFreq
+                0x00000000       0x60 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x8d4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000      0x154 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0xad4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableClockProtection
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableClockProtection
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSECSS
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableLSECSS
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSECSS_IT
+                0x00000000       0x30 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_WakeUpStopCLKConfig
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_KerWakeUpStopCLKConfig
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_LSECSS_Callback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_LSECSS_IRQHandler
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSConfig
+                0x00000000       0x54 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSGetSynchronizationInfo
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSWaitSynchronization
+                0x00000000       0x84 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_SyncOkCallback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_SyncWarnCallback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_ExpectedSyncCallback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_ErrorCallback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_IRQHandler
+                0x00000000       0x74 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0xe82 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x287 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_loclists
+                0x00000000     0x107a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0xc8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_rnglists
+                0x00000000       0x95 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x249 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0xb02 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x1a1 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x2e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x42 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x34e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0xfb src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000     0x1313 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x11f src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000    0x2145c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x6d src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000     0x346a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x75 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x29 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x94 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x190 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x57 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x370 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x16 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x4a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x1de src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x19b src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x64 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0xab5 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000     0x1f68 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x93a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x170 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x1ba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x2e8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x590 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x52e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0xba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x27c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x2c0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x433 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0xb0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x11c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x210 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x2a0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x693 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000       0xa6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000      0x587 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000     0x1a06 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000   0x12d24c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x45 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000      0x228 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x32 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.RCC_PLL1_GetVCOOutputFreq
+                0x00000000       0xa4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.RCC_PLL2_GetVCOOutputFreq
+                0x00000000       0xa4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.RCC_PLL3_GetVCOOutputFreq
+                0x00000000       0xa4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x6c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .rodata.HAL_RCC_GetHCLKFreq.str1.1
+                0x00000000        0x9 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000      0x1ac src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK4Freq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK5Freq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL1PFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL1QFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL1RFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL1SFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL2PFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL2QFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL2RFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL2SFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL2TFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL3PFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL3QFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL3RFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPLL3SFreq
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x174 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x54 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_HSECSSCallback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_LSECSSCallback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_GetResetSource
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0xb02 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x1a1 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x2e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x42 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x34e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0xfb src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000     0x1313 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x11f src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000    0x2145c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x6d src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000     0x346a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x75 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x29 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x94 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x190 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x57 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x370 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x16 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x4a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x1de src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x19b src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x64 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0xab5 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000     0x1f68 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x93a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x170 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x1ba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x2e8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x590 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x52e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0xba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x27c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x2c0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x433 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0xb0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x11c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x210 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x2a0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x693 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000       0xa6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x00000000      0x587 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ConfigSupply
+                0x00000000       0x6c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetSupplyConfig
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ControlStopModeVoltageScaling
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetStopModeVoltageRange
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableWakeUpPin
+                0x00000000       0x80 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableWakeUpPin
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetWakeupFlag
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ClearWakeupFlag
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP1_Callback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP2_Callback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP3_Callback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP4_Callback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WAKEUP_PIN_IRQHandler
+                0x00000000       0x54 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x30 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x30 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUSBReg
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUSBReg
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUSBVoltageDetector
+                0x00000000       0x30 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUSBVoltageDetector
+                0x00000000       0x30 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUSBHSregulator
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUSBHSregulator
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUCPDStandbyMode
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUCPDStandbyMode
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUCPDDeadBattery
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUCPDDeadBattery
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableAnalogBooster
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableAnalogBooster
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableXSPIM1
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableXSPIM1
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableXSPIM2
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableXSPIM2
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ConfigXSPIPortCap
+                0x00000000       0x20 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetConfigXSPIPortCap
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableMonitoring
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableMonitoring
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetTemperatureLevel
+                0x00000000       0x20 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVBATLevel
+                0x00000000       0x20 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ConfigAVD
+                0x00000000       0x88 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableAVD
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableAVD
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVD_AVD_Callback
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVD_AVD_IRQHandler
+                0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePullUpPullDownConfig
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePullUpPullDownConfig
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullUp
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullUp
+                0x00000000       0x28 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullDown
+                0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullDown
+                0x00000000       0x38 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0xb02 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x1a1 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x2e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x42 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x34e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0xfb src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000     0x1313 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x11f src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000    0x2145c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x6d src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000     0x346a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x75 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x29 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x94 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x190 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x57 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x370 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x16 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x4a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x1de src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x19b src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x64 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0xab5 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000     0x1f68 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x93a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x170 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x1ba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x2e8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x590 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x52e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0xba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x27c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x2c0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x433 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0xb0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x11c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x210 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x2a0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x693 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000       0xa6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000      0x587 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x8c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x40 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x28 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x88d src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x191 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_loclists
+                0x00000000       0x47 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0x90 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_rnglists
+                0x00000000       0x68 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x268 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0xb02 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x1a1 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x2e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x42 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x34e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0xfb src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000     0x1313 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x11f src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000    0x2145c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x6d src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000     0x346a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x75 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x29 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x94 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x190 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x57 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x370 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x16 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x4a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x1de src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x19b src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x64 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0xab5 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000     0x1f68 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x93a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x170 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x1ba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x2e8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x590 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x52e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0xba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x27c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x2c0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x433 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0xb0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x11c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x210 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x2a0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x693 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000       0xa6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_macro   0x00000000      0x587 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x751 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_str     0x00000000   0x12cb78 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .comment       0x00000000       0x45 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x100 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x32 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .group         0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .data          0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .bss           0x00000000        0x0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x8c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_Init
+                0x00000000       0x1e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_IncTick
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x28 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_Delay
+                0x00000000       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000        0xe src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000        0xe src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_GetBootAddress
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_IncrementHDPLValue
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_GetHDPLValue
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_OpenAccessPort
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_OpenDebug
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_ConfigDebugLevel
+                0x00000000       0x20 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_GetDebugLevel
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_UnlockDebugConfig
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_LockDebugConfig
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_ConfigRSSCommand
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_GetRSSCommand
+                0x00000000        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_EnableIOAnalogBooster
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_DisableIOAnalogBooster
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_EnableIOAnalogSwitchVdd
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_DisableIOAnalogSwitchVdd
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_ConfigEthernetPHY
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_ConfigAXISRAMWaitState
+                0x00000000       0x18 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_EnableCompensationCell
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_DisableCompensationCell
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_GetCompensationCellReadyStatus
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_ConfigCompensationCell
+                0x00000000       0x54 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_GetCompensationCell
+                0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_EnableIOSpeedOptimize
+                0x00000000        0x4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_DisableIOSpeedOptimize
+                0x00000000        0x4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_ConfigTimerBreakInput
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_GetTimerBreakInputConfig
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_EXTIConfig
+                0x00000000       0x26 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_SBS_GetEXTIConfig
+                0x00000000       0x20 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_VREFBUF_VoltageScalingConfig
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_VREFBUF_HighImpedanceConfig
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_VREFBUF_TrimmingConfig
+                0x00000000       0x14 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_VREFBUF_Enable
+                0x00000000       0x30 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_VREFBUF_Disable
+                0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_ASIB_EnablePacking
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_ASIB_DisablePacking
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_ASIB_IssuingConfig
+                0x00000000        0x8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_ASIB_ReadQoSConfig
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_ASIB_WriteQoSConfig
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_AMIB_EnablePacking
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_AMIB_DisablePacking
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_AMIB_IssuingConfig
+                0x00000000        0x8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_AMIB_IssuingConfigBusMatrix
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_AMIB_EnableLongBurst
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text.HAL_AXIM_AMIB_DisableLongBurst
+                0x00000000        0x6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0xb02 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x1a1 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x2e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x42 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x34e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x1c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0xfb src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000     0x1313 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x11f src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000    0x2145c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x6d src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000     0x346a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x22 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x75 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x29 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x94 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x190 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x57 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x370 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x16 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x4a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x10 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x58 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x1de src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x19b src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x64 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0xab5 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000     0x1f68 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x93a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x170 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x1ba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x2e8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x590 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x52e src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0xba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x27c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x2c0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x433 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0xb0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x11c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x210 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x2a0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x693 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000       0xa6 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .debug_macro   0x00000000      0x587 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+ .text          0x00000000        0x0 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-memset.o)
+ .data          0x00000000        0x0 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-memset.o)
+ .debug_frame   0x00000000       0x2c C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x32 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-memset.o)
+ .text          0x00000000        0x0 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-init.o)
+ .debug_frame   0x00000000       0x2c C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000000       0x32 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-init.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x24000000         0x00071c00         xrw
+RAM_NONCACHEABLEBUFFER 0x24071c00         0x00000400         xrw
+ITCM             0x00000000         0x00010000         xrw
+DTCM             0x20000000         0x00010000         rw
+SRAMAHB          0x30000000         0x00008000         rw
+BKPSRAM          0x38800000         0x00001000         rw
+FLASH            0x08000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+LOAD src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+LOAD src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+LOAD src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+LOAD src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc_ex.c.obj
+LOAD src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+LOAD src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+LOAD src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr.c.obj
+LOAD src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+                0x20010000                        _estack = (ORIGIN (DTCM) + LENGTH (DTCM))
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+                0x08000000                        __FLASH_BEGIN = 0x8000000
+                0x00010000                        __FLASH_SIZE = 0x10000
+                0x24000000                        __RAM_BEGIN = 0x24000000
+                0x00071c00                        __RAM_SIZE = 0x71c00
+                0x00000400                        __RAM_NONCACHEABLEBUFFER_SIZE = 0x400
+
+.isr_vector     0x08000000      0x2b0
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x2b0 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+                0x08000000                g_pfnVectors
+                0x080002b0                        . = ALIGN (0x4)
+
+.text           0x080002b0      0xdec
+                0x080002b0                        . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.startup.main
+                0x080002b0      0x15c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+                0x080002b0                main
+ .text._init    0x0800040c        0x2 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+                0x0800040c                _init
+ *fill*         0x0800040e        0x2 
+ .text.Reset_Handler
+                0x08000410       0x50 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+                0x08000410                Reset_Handler
+ .text.Default_Handler
+                0x08000460        0x2 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+                0x08000460                HPDMA1_Channel13_IRQHandler
+                0x08000460                EXTI2_IRQHandler
+                0x08000460                MCE2_IRQHandler
+                0x08000460                SAI1_A_IRQHandler
+                0x08000460                EXTI5_IRQHandler
+                0x08000460                I3C1_ER_IRQHandler
+                0x08000460                DebugMon_Handler
+                0x08000460                UART8_IRQHandler
+                0x08000460                SPI4_IRQHandler
+                0x08000460                EXTI13_IRQHandler
+                0x08000460                TIM1_CC_IRQHandler
+                0x08000460                XSPI1_IRQHandler
+                0x08000460                HardFault_Handler
+                0x08000460                JPEG_IRQHandler
+                0x08000460                TAMP_IRQHandler
+                0x08000460                TIM6_IRQHandler
+                0x08000460                EXTI12_IRQHandler
+                0x08000460                CORDIC_IRQHandler
+                0x08000460                SysTick_Handler
+                0x08000460                GFXTIM_IRQHandler
+                0x08000460                PendSV_Handler
+                0x08000460                NMI_Handler
+                0x08000460                EXTI3_IRQHandler
+                0x08000460                LPTIM4_IRQHandler
+                0x08000460                GPDMA1_Channel5_IRQHandler
+                0x08000460                EXTI8_IRQHandler
+                0x08000460                LPTIM2_IRQHandler
+                0x08000460                GFXMMU_IRQHandler
+                0x08000460                I2C3_ER_IRQHandler
+                0x08000460                LPTIM3_IRQHandler
+                0x08000460                SAI2_A_IRQHandler
+                0x08000460                EXTI0_IRQHandler
+                0x08000460                HPDMA1_Channel9_IRQHandler
+                0x08000460                I2C2_EV_IRQHandler
+                0x08000460                FPU_IRQHandler
+                0x08000460                GPDMA1_Channel3_IRQHandler
+                0x08000460                GPDMA1_Channel7_IRQHandler
+                0x08000460                FDCAN1_IT1_IRQHandler
+                0x08000460                HPDMA1_Channel3_IRQHandler
+                0x08000460                UsageFault_Handler
+                0x08000460                ADC1_2_IRQHandler
+                0x08000460                GPDMA1_Channel9_IRQHandler
+                0x08000460                SPI1_IRQHandler
+                0x08000460                SAI1_B_IRQHandler
+                0x08000460                GPDMA1_Channel2_IRQHandler
+                0x08000460                I3C1_WKUP_IRQHandler
+                0x08000460                PKA_IRQHandler
+                0x08000460                HPDMA1_Channel2_IRQHandler
+                0x08000460                EXTI15_IRQHandler
+                0x08000460                TIM17_IRQHandler
+                0x08000460                USART3_IRQHandler
+                0x08000460                HPDMA1_Channel6_IRQHandler
+                0x08000460                CRYP_IRQHandler
+                0x08000460                RTC_IRQHandler
+                0x08000460                XSPI2_IRQHandler
+                0x08000460                EXTI9_IRQHandler
+                0x08000460                HPDMA1_Channel0_IRQHandler
+                0x08000460                LPTIM5_IRQHandler
+                0x08000460                HPDMA1_Channel1_IRQHandler
+                0x08000460                UART5_IRQHandler
+                0x08000460                TIM4_IRQHandler
+                0x08000460                I2C1_EV_IRQHandler
+                0x08000460                GPDMA1_Channel12_IRQHandler
+                0x08000460                HPDMA1_Channel7_IRQHandler
+                0x08000460                GPDMA1_Channel1_IRQHandler
+                0x08000460                TIM16_IRQHandler
+                0x08000460                GPDMA1_Channel15_IRQHandler
+                0x08000460                UART4_IRQHandler
+                0x08000460                TIM3_IRQHandler
+                0x08000460                RCC_IRQHandler
+                0x08000460                TIM1_TRG_COM_IRQHandler
+                0x08000460                SAI2_B_IRQHandler
+                0x08000460                Default_Handler
+                0x08000460                GPDMA1_Channel8_IRQHandler
+                0x08000460                HPDMA1_Channel8_IRQHandler
+                0x08000460                CEC_IRQHandler
+                0x08000460                TIM14_IRQHandler
+                0x08000460                TIM13_IRQHandler
+                0x08000460                GPDMA1_Channel11_IRQHandler
+                0x08000460                SPI5_IRQHandler
+                0x08000460                TIM12_IRQHandler
+                0x08000460                TIM7_IRQHandler
+                0x08000460                HPDMA1_Channel10_IRQHandler
+                0x08000460                SDMMC1_IRQHandler
+                0x08000460                SAES_IRQHandler
+                0x08000460                TIM5_IRQHandler
+                0x08000460                UCPD1_IRQHandler
+                0x08000460                GPDMA1_Channel0_IRQHandler
+                0x08000460                I3C1_EV_IRQHandler
+                0x08000460                HPDMA1_Channel5_IRQHandler
+                0x08000460                TIM15_IRQHandler
+                0x08000460                I2C3_EV_IRQHandler
+                0x08000460                HPDMA1_Channel4_IRQHandler
+                0x08000460                HPDMA1_Channel15_IRQHandler
+                0x08000460                TIM9_IRQHandler
+                0x08000460                SPDIF_RX_IRQHandler
+                0x08000460                PVD_PVM_IRQHandler
+                0x08000460                SPI2_IRQHandler
+                0x08000460                HPDMA1_Channel11_IRQHandler
+                0x08000460                MemManage_Handler
+                0x08000460                EXTI14_IRQHandler
+                0x08000460                EXTI11_IRQHandler
+                0x08000460                SVC_Handler
+                0x08000460                CRS_IRQHandler
+                0x08000460                GPDMA1_Channel14_IRQHandler
+                0x08000460                EXTI4_IRQHandler
+                0x08000460                GPDMA1_Channel13_IRQHandler
+                0x08000460                RNG_IRQHandler
+                0x08000460                FDCAN2_IT1_IRQHandler
+                0x08000460                ETH_IRQHandler
+                0x08000460                TIM1_UP_IRQHandler
+                0x08000460                WWDG_IRQHandler
+                0x08000460                SPI6_IRQHandler
+                0x08000460                MDIOS_IRQHandler
+                0x08000460                FDCAN2_IT0_IRQHandler
+                0x08000460                IWDG_IRQHandler
+                0x08000460                HPDMA1_Channel14_IRQHandler
+                0x08000460                LPUART1_IRQHandler
+                0x08000460                FDCAN1_IT0_IRQHandler
+                0x08000460                TIM2_IRQHandler
+                0x08000460                PSSI_IRQHandler
+                0x08000460                MCE3_IRQHandler
+                0x08000460                GPDMA1_Channel4_IRQHandler
+                0x08000460                OTG_HS_IRQHandler
+                0x08000460                EXTI7_IRQHandler
+                0x08000460                DMA2D_IRQHandler
+                0x08000460                TIM1_BRK_IRQHandler
+                0x08000460                EXTI1_IRQHandler
+                0x08000460                SDMMC2_IRQHandler
+                0x08000460                UART7_IRQHandler
+                0x08000460                DTS_IRQHandler
+                0x08000460                USART2_IRQHandler
+                0x08000460                GPDMA1_Channel6_IRQHandler
+                0x08000460                ADF1_FLT0_IRQHandler
+                0x08000460                RAMECC_IRQHandler
+                0x08000460                I2C2_ER_IRQHandler
+                0x08000460                MCE1_IRQHandler
+                0x08000460                HPDMA1_Channel12_IRQHandler
+                0x08000460                FLASH_IRQHandler
+                0x08000460                BusFault_Handler
+                0x08000460                USART1_IRQHandler
+                0x08000460                EXTI10_IRQHandler
+                0x08000460                OTG_FS_IRQHandler
+                0x08000460                SPI3_IRQHandler
+                0x08000460                WAKEUP_PIN_IRQHandler
+                0x08000460                DCMIPP_IRQHandler
+                0x08000460                I2C1_ER_IRQHandler
+                0x08000460                FMC_IRQHandler
+                0x08000460                EXTI6_IRQHandler
+                0x08000460                LPTIM1_IRQHandler
+                0x08000460                GPDMA1_Channel10_IRQHandler
+                0x08000460                HASH_IRQHandler
+ *fill*         0x08000462        0x2 
+ .text.SystemInit
+                0x08000464       0x1c src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+                0x08000464                SystemInit
+ .text.HAL_NVIC_SetPriority
+                0x08000480       0x64 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+                0x08000480                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x080004e4       0x28 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+                0x080004e4                HAL_SYSTICK_Config
+ .text.HAL_MPU_Enable
+                0x0800050c       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+                0x0800050c                HAL_MPU_Enable
+ .text.HAL_MPU_Disable
+                0x08000530       0x24 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+                0x08000530                HAL_MPU_Disable
+ .text.HAL_MPU_ConfigRegion
+                0x08000554       0x64 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+                0x08000554                HAL_MPU_ConfigRegion
+ .text.RCC_PLL_Config
+                0x080005b8      0x1cc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .text.HAL_RCC_OscConfig
+                0x08000784      0x434 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+                0x08000784                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08000bb8      0x148 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+                0x08000bb8                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08000d00      0x21c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+                0x08000d00                HAL_RCC_ClockConfig
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x08000f1c       0x34 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+                0x08000f1c                HAL_PWREx_ControlVoltageScaling
+ .text.HAL_InitTick
+                0x08000f50       0x4c src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+                0x08000f50                HAL_InitTick
+ .text.HAL_GetTick
+                0x08000f9c        0xc src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+                0x08000f9c                HAL_GetTick
+ .text.memset   0x08000fa8       0xa4 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-memset.o)
+                0x08000fa8                memset
+ .text.__libc_init_array
+                0x0800104c       0x50 C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a(libc_a-init.o)
+                0x0800104c                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x0800109c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800109c        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x0800109c                        . = ALIGN (0x4)
+                0x0800109c                        _etext = .
+
+.vfp11_veneer   0x0800109c        0x0
+ .vfp11_veneer  0x0800109c        0x0 linker stubs
+
+.v4_bx          0x0800109c        0x0
+ .v4_bx         0x0800109c        0x0 linker stubs
+
+.iplt           0x0800109c        0x0
+ .iplt          0x0800109c        0x0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+
+.rel.dyn        0x0800109c        0x0
+ .rel.iplt      0x0800109c        0x0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+
+.rodata         0x0800109c        0x0
+                0x0800109c                        . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x0800109c                        . = ALIGN (0x4)
+
+.ARM.extab      0x0800109c        0x0
+                0x0800109c                        . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800109c                        . = ALIGN (0x4)
+
+.ARM            0x0800109c        0x0
+                0x0800109c                        . = ALIGN (0x4)
+                0x0800109c                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x0800109c                        __exidx_end = .
+                0x0800109c                        . = ALIGN (0x4)
+
+.preinit_array  0x0800109c        0x0
+                0x0800109c                        . = ALIGN (0x4)
+                0x0800109c                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0800109c                        PROVIDE (__preinit_array_end = .)
+                0x0800109c                        . = ALIGN (0x4)
+
+.init_array     0x0800109c        0x0
+                0x0800109c                        . = ALIGN (0x4)
+                0x0800109c                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x0800109c                        PROVIDE (__init_array_end = .)
+                0x0800109c                        . = ALIGN (0x4)
+
+.fini_array     0x0800109c        0x0
+                0x0800109c                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0800109c                        . = ALIGN (0x4)
+                0x0800109c                        _sidata = LOADADDR (.data)
+
+.data           0x24000000        0xc load address 0x0800109c
+                0x24000000                        . = ALIGN (0x4)
+                0x24000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x24000000        0x4 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+                0x24000000                SystemCoreClock
+ .data.uwTickFreq
+                0x24000004        0x1 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+                0x24000004                uwTickFreq
+ *fill*         0x24000005        0x3 
+ .data.uwTickPrio
+                0x24000008        0x4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+                0x24000008                uwTickPrio
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x2400000c                        . = ALIGN (0x4)
+                0x2400000c                        _edata = .
+
+.igot.plt       0x2400000c        0x0 load address 0x080010a8
+ .igot.plt      0x2400000c        0x0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+                0x2400000c                        . = ALIGN (0x4)
+
+.bss            0x2400000c        0x4 load address 0x080010a8
+                0x2400000c                        _sbss = .
+                0x2400000c                        __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.uwTick    0x2400000c        0x4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+                0x2400000c                uwTick
+ *(COMMON)
+                0x24000010                        . = ALIGN (0x4)
+                0x24000010                        _ebss = .
+                0x24000010                        __bss_end__ = _ebss
+
+RW_NONCACHEABLE
+                0x24071c00        0x0
+                0x24071c00                        __NONCACHEABLEBUFFER_BEGIN = .
+ *(noncacheable_buffer)
+                0x24071c00                        __NONCACHEABLEBUFFER_END = .
+
+._user_heap_stack
+                0x20000000      0x600
+                0x20000000                        . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x20000200                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000000      0x200 
+                0x20000600                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000200      0x400 
+                0x20000600                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x32 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .ARM.attributes
+                0x00000032       0x21 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .ARM.attributes
+                0x00000053       0x32 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .ARM.attributes
+                0x00000085       0x32 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .ARM.attributes
+                0x000000b7       0x32 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000000e9       0x32 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x0000011b       0x32 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+OUTPUT(src\playground_boot.elf elf32-littlearm)
+LOAD linker stubs
+LOAD C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libc.a
+LOAD C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libm.a
+LOAD C:/bin/arm-none-eabi/13.2.Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+dp/hard\libgcc.a
+
+.debug_info     0x00000000     0x6796
+ .debug_info    0x00000000      0xabb src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_info    0x00000abb       0x30 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .debug_info    0x00000aeb      0x9cd src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_info    0x000014b8     0x1375 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_info    0x0000282d     0x18b2 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_info    0x000040df      0xcbf src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_info    0x00004d9e     0x19f8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_abbrev   0x00000000     0x1092
+ .debug_abbrev  0x00000000      0x26e src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_abbrev  0x0000026e       0x24 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .debug_abbrev  0x00000292      0x131 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_abbrev  0x000003c3      0x387 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_abbrev  0x0000074a      0x314 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_abbrev  0x00000a5e      0x2a7 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x00000d05      0x38d src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_loclists
+                0x00000000     0x1935
+ .debug_loclists
+                0x00000000       0x40 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_loclists
+                0x00000040       0xc0 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_loclists
+                0x00000100      0x4cf src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_loclists
+                0x000005cf      0xb19 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_loclists
+                0x000010e8      0x413 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_loclists
+                0x000014fb      0x43a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_aranges  0x00000000      0x670
+ .debug_aranges
+                0x00000000       0x28 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_aranges
+                0x00000028       0x28 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .debug_aranges
+                0x00000050       0x28 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_aranges
+                0x00000078       0xc0 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000138      0x130 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000268      0x1c8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x00000430      0x240 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_rnglists
+                0x00000000      0x561
+ .debug_rnglists
+                0x00000000       0x26 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_rnglists
+                0x00000026       0x19 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .debug_rnglists
+                0x0000003f       0x1a src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_rnglists
+                0x00000059       0xe5 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_rnglists
+                0x0000013e       0xe8 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_rnglists
+                0x00000226      0x18f src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_rnglists
+                0x000003b5      0x1ac src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_macro    0x00000000    0x2ef99
+ .debug_macro   0x00000000      0x29e src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0000029e      0xb02 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00000da0      0x1a1 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00000f41       0x2e src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00000f6f       0x42 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00000fb1      0x34e src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x000012ff       0x1c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0000131b       0x22 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0000133d       0xfb src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00001438     0x1313 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0000274b      0x11f src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0000286a       0x22 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0000288c    0x2145c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00023ce8       0x6d src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00023d55     0x346a src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x000271bf       0x22 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x000271e1       0x75 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00027256       0x29 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002727f       0x94 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00027313       0x3c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002734f       0x34 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00027383      0x190 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00027513       0x57 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002756a      0x370 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x000278da       0x16 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x000278f0       0x4a src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002793a       0x34 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002796e       0x10 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002797e       0x58 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x000279d6      0x1de src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00027bb4      0x19b src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00027d4f       0x64 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00027db3      0xab5 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x00028868     0x1f68 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002a7d0      0x93a src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002b10a      0x170 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002b27a      0x1ba src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002b434      0x2e8 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002b71c      0x590 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002bcac      0x52e src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002c1da       0xba src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002c294      0x27c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002c510      0x2c0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002c7d0      0x433 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002cc03       0xb0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002ccb3      0x11c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002cdcf      0x210 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002cfdf      0x2a0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002d27f       0x3c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002d2bb      0x693 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002d94e       0xa6 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002d9f4      0x587 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002df7b       0x28 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002dfa3       0xa0 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002e043       0x1c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002e05f       0x3c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002e09b       0x10 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002e0ab       0x1c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002e0c7       0x16 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002e0dd      0x170 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002e24d       0xf8 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_macro   0x0002e345      0x24f src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_macro   0x0002e594      0x249 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_macro   0x0002e7dd      0x2af src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_macro   0x0002ea8c      0x282 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_macro   0x0002ed0e      0x28b src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_line     0x00000000     0x569c
+ .debug_line    0x00000000      0x8db src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_line    0x000008db       0x7b src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .debug_line    0x00000956      0x683 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_line    0x00000fd9      0xbba src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_line    0x00001b93     0x1d38 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_line    0x000038cb      0xf03 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_line    0x000047ce      0xece src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_str      0x00000000   0x1303a7
+ .debug_str     0x00000000   0x1303a7 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+                             0x12dba1 (size before relaxing)
+ .debug_str     0x001303a7       0x96 src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
+ .debug_str     0x001303a7   0x12cb3e src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_str     0x001303a7   0x12d5b3 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_str     0x001303a7   0x12d492 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_str     0x001303a7   0x12d09a src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_str     0x001303a7   0x12dfbb src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.comment        0x00000000       0x44
+ .comment       0x00000000       0x44 src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+                                 0x45 (size before relaxing)
+ .comment       0x00000044       0x45 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .comment       0x00000044       0x45 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .comment       0x00000044       0x45 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .comment       0x00000044       0x45 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .comment       0x00000044       0x45 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_frame    0x00000000      0xde8
+ .debug_frame   0x00000000       0x3c src/CMakeFiles/playground_boot.elf.dir/main2.c.obj
+ .debug_frame   0x0000003c       0x30 src/CMakeFiles/playground_boot.elf.dir/system_stm32h7rsxx.c.obj
+ .debug_frame   0x0000006c      0x180 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_cortex.c.obj
+ .debug_frame   0x000001ec      0x364 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_rcc.c.obj
+ .debug_frame   0x00000550      0x3d4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal_pwr_ex.c.obj
+ .debug_frame   0x00000924      0x4c4 src/CMakeFiles/playground_boot.elf.dir/hal/stm32h7rsxx_hal.c.obj
+
+.debug_line_str
+                0x00000000       0x7a
+ .debug_line_str
+                0x00000000       0x7a src/CMakeFiles/playground_boot.elf.dir/startup_stm32h7s3l8hx.s.obj
