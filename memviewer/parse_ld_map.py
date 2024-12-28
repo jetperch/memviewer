@@ -31,6 +31,8 @@ def parse_ld_map(f):
         add = None
         if state == 0 and line == 'Linker script and memory map\n':
             state = 1
+        elif line.startswith('.debug_info'):
+            break
         elif state == 1 and line.startswith(' .'):
             parts = line.strip().split(maxsplit=3)
             parts_len = len(parts)
@@ -46,6 +48,7 @@ def parse_ld_map(f):
             addr, size, src = line.split()
             add = [name, addr, size, src]
             state = 1
+
         if add is not None:
             name, addr, size, src = add
             name_parts = name.split('.', 2)
