@@ -66,7 +66,7 @@ See the [License File](LICENSE.txt) for details.
   * [LinkerScope](https://github.com/raulgotor/linkerscope) 
   * [linkermapviz](https://github.com/8bitgeek/linkermapviz)
   * [MapViewer](https://github.com/govind-mukundan/MapViewer)
-  * [puncover](https://github.com/HBehrnspuncover)
+  * [puncover](https://github.com/HBehrens/puncover)
   * [Emma](https://github.com/bmwcarit/Emma)
   * [amap](https://www.sikorskiy.net/info/prj/amap/index.html)
   * [GccMapVisualizer](https://github.com/jotux/GccMapVisualizer)
