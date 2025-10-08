@@ -28,4 +28,4 @@ class TestParseLdMap(unittest.TestCase):
 
     def test_example_01(self):
         v = parse_ld_map(os.path.join(MYPATH, 'example_01.map'))
-        self.assertEqual(158, len(v))
+        self.assertEqual(31, len(v))

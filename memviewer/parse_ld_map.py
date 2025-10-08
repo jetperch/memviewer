@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright 2024 Jetperch LLC
+# Copyright 2024-2025 Jetperch LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -45,7 +45,7 @@ def parse_ld_map(f):
                 raise ValueError(f'unsupported parts: {parts_len}, {line}')
         elif state == 2:
             line = line.strip()
-            addr, size, src = line.split()
+            addr, size, src = line.split(maxsplit=2)
             add = [name, addr, size, src]
             state = 1
 

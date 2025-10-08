@@ -13,7 +13,7 @@
 # limitations under the License.
 
 
-__version__ = "0.0.1"
+__version__ = "0.1.0"
 
 __title__ = "MemViewer"
 __description__ = 'View memory required by compiled programs'
@@ -21,7 +21,7 @@ __url__ = 'https://github.com/jetperch/memviewer'
 __author__ = 'Jetperch LLC'
 __author_email__ = 'joulescope-dev@jetperch.com'
 __license__ = 'Apache 2.0'
-__copyright__ = 'Copyright 2024 Jetperch LLC'
+__copyright__ = 'Copyright 2024-2025 Jetperch LLC'
 
 __all__ = ['__version__', '__title__', '__description__', '__url__',
            '__author__', '__author_email__', '__license__',
