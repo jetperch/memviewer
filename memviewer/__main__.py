@@ -15,7 +15,7 @@
 
 import argparse
 import sys
-from memviewer import parse_ld_map, treemap
+from memviewer import parse_elf, parse_ld_map, treemap
 
 
 _filter_operator_map = {
@@ -61,8 +61,7 @@ def run():
     if args.source.endswith('.map'):
         symbols = parse_ld_map(args.source)
     else:
-        sys.stderr.write('ELF files are not yet supported\n')
-        return 1
+        symbols = parse_elf(args.source)
 
     if args.filter is not None:
         for field, operator, value in args.filter:

@@ -12,12 +12,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+from .parse_elf import parse_elf
 from .parse_ld_map import parse_ld_map
 from .treemap import treemap
 from .version import *
 
 __all__ = [
-    'parse_ld_map', 'treemap',
+    'parse_elf', 'parse_ld_map', 'treemap',
     '__title__', '__description__', '__url__',
     '__author__', '__author_email__', '__license__',
     '__copyright__',
