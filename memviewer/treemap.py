@@ -16,11 +16,13 @@
 import numpy as np
 import pandas as pd
 import squarify
+import tempfile
 import itertools
 from bokeh.palettes import Category20c
 from bokeh.models import HoverTool
 from bokeh.plotting import figure, show
 from bokeh.transform import factor_cmap
+from bokeh.io import output_file
 
 
 def groupby(field, symbols: list) -> dict:
@@ -58,7 +60,7 @@ def _treemap(df, x, y, dx, dy):
     return df.join(blocks_df, how='left').reset_index()
 
 
-def treemap_grouped(symbols: list, groupby):
+def treemap_grouped(symbols: list, groupby, path_output=None, js_mode=None):
     df = pd.DataFrame(symbols)
     size_by_group = df.groupby([groupby]).sum('size').sort_values(by='size', ascending=False)
 
@@ -96,10 +98,13 @@ def treemap_grouped(symbols: list, groupby):
 
     p.axis.axis_label = None
     p.axis.visible = False
+    if not path_output:
+        path_output = tempfile.NamedTemporaryFile(delete=False, prefix="memviewer", suffix=".html").name
+    output_file(path_output, mode=js_mode if js_mode else "cdn")
     show(p)
 
 
-def treemap_flat(symbols: list):
+def treemap_flat(symbols: list, path_output=None, js_mode=None):
     x, y = 0, 0
     width, height = 1000, 800
     data = [(v['size'], f"{v['source']}|{v['name']}") for v in symbols]
@@ -134,10 +139,14 @@ def treemap_flat(symbols: list):
 
     p.axis.axis_label = None
     p.axis.visible = False
+    
+    if not path_output:
+        path_output = tempfile.NamedTemporaryFile(delete=False, prefix="memviewer", suffix=".html").name
+    output_file(path_output, mode=js_mode if js_mode else "cdn")
     show(p)
 
 
-def treemap(symbols: list, groupby=None):
+def treemap(symbols: list, groupby=None, path_output=None, js_mode=None):
     """Generate and display a treemap.
 
     :param symbols: The list of dictionaries, one for each symbol.
@@ -145,6 +154,6 @@ def treemap(symbols: list, groupby=None):
     :param groupby: The optional field used to group the treemap.
     """
     if groupby is None:
-        treemap_flat(symbols)
+        treemap_flat(symbols, path_output=path_output, js_mode=js_mode)
     else:
-        treemap_grouped(symbols, groupby)
+        treemap_grouped(symbols, groupby, path_output=path_output, js_mode=js_mode)
