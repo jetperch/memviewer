@@ -13,7 +13,7 @@
 # limitations under the License.
 
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 __title__ = "MemViewer"
 __description__ = 'View memory required by compiled programs'

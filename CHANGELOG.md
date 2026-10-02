@@ -4,6 +4,14 @@
 This file contains the list of changes made to memviewer.
 
 
+## 0.2.0
+
+2026 Oct 1
+
+* Added support for offline files
+* Added support for Lattice Diamond hierarchical resource report (.hrr) files.
+
+
 ## 0.1.0
 
 2025 Oct 8
