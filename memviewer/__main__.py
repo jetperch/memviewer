@@ -15,7 +15,7 @@
 
 import argparse
 import sys
-from memviewer import parse_elf, parse_ld_map, treemap
+from memviewer import parse_elf, parse_hrr, parse_ld_map, treemap
 
 
 _filter_operator_map = {
@@ -53,6 +53,18 @@ def get_parser():
                    'The operators are equals, startswith, contains, endswith.')
     p.add_argument('--groupby', '-g',
                    help='Group treemap by this field.')
+    p.add_argument('--resource', '-r',
+                   default='SLIC',
+                   help='For .hrr files, the resource type to size by '
+                        '(e.g. SLIC, LUT4, DISTRAM, PFUREG, RIPPLE, EBR). '
+                        'Default: SLIC.')
+    p.add_argument('--subsystem-depth',
+                   type=int,
+                   default=2,
+                   help='For .hrr files, the instance path depth used to '
+                        'tag each block with a "subsystem" field.  Use '
+                        '--groupby subsystem to cluster by functional '
+                        'block.  Default: 2.')
     return p
 
 
@@ -60,6 +72,10 @@ def run():
     args = get_parser().parse_args()
     if args.source.endswith('.map'):
         symbols = parse_ld_map(args.source)
+    elif args.source.endswith('.hrr'):
+        symbols = parse_hrr(args.source,
+                            resource=args.resource,
+                            subsystem_depth=args.subsystem_depth)
     else:
         symbols = parse_elf(args.source)
 
