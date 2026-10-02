@@ -16,6 +16,7 @@
 import argparse
 import sys
 from memviewer import parse_elf, parse_hrr, parse_ld_map, treemap
+import os
 
 
 _filter_operator_map = {
@@ -65,6 +66,15 @@ def get_parser():
                         'tag each block with a "subsystem" field.  Use '
                         '--groupby subsystem to cluster by functional '
                         'block.  Default: 2.')
+    p.add_argument('--js-mode',
+                   choices=['inline', 'cdn'],
+                   default='cdn',
+                   help='inline: embed bokehjs with html, or '
+                        'cdn: load bokehjs from remote cdn')
+    p.add_argument('--path-output',
+                   type=os.path.abspath,
+                   default=None,
+                   help='path to output html file')
     return p
 
 
@@ -97,7 +107,7 @@ def run():
     if len(symbols) == 0:
         print('No matching symbols')
     else:
-        treemap(symbols, args.groupby)
+        treemap(symbols, args.groupby, path_output=args.path_output, js_mode=args.js_mode)
 
     return 0
 
